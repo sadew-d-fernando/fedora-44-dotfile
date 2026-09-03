@@ -1,0 +1,34 @@
+[CompactMode]
+PreviewSize=22
+
+[DetailsMode]
+PreviewSize=80
+RightPadding=245
+
+[General]
+GlobalViewProps=false
+Version=202
+ViewPropsTimestamp=2026,4,13,1,33,11.821
+
+[IconsMode]
+PreviewSize=80
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=16
+
+[MainWindow]
+MenuBar=Disabled
+UseSystemTitleBarAndBorders=false
+
+[Notification Messages]
+ConfirmRenameFileType=false
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,gsf-office,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[UiSettings]
+ColorScheme=BreezeDarkn

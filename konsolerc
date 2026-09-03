@@ -1,0 +1,14 @@
+[Desktop Entry]
+DefaultProfile=sadew.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RemoveWindowTitleBarAndFrame=false
+
+[Notification Messages]
+CloseAllTabs=true
+
+[UiSettings]
+ColorScheme=BreezeDark
